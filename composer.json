@@ -1,9 +1,9 @@
 {
-    "name": "pay/sdk",
+    "name": "tianqi-pay/sdk",
     "description": "tianqi pay",
     "authors": [
         {
-            "name": "Administrator",
+            "name": "cql",
             "email": "925648047@qq.com"
         }
     ],
