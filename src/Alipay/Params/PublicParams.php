@@ -1,5 +1,5 @@
 <?php
-namespace TianQi\PaySDK\AlipayApp\Params;
+namespace TianQi\PaySDK\Alipay\Params;
 
 use \TianQi\PaySDK\PublicBase;
 

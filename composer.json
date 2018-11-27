@@ -1,6 +1,6 @@
 {
-    "name": "tianqi-pay/sdk",
-    "description": "tianqi pay",
+    "name": "tianqi-pay",
+    "description": "支付集成",
     "authors": [
         {
             "name": "cql",

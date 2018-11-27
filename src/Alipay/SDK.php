@@ -1,5 +1,5 @@
 <?php
-namespace TianQi\PaySDK\AlipayApp;
+namespace TianQi\PaySDK\Alipay;
 
 use \TianQi\PaySDK\Base;
 use \TianQi\PaySDK\Lib\Encrypt\AES;

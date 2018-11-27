@@ -1,8 +1,8 @@
 <?php
-namespace TianQi\PaySDK\AlipayApp\Wap\Params\Pay;
+namespace TianQi\PaySDK\Alipay\Wap\Params\Pay;
 
 use \TianQi\PaySDK\AlipayRequestBase;
-use \TianQi\PaySDK\AlipayApp\Wap\Params\Pay\BusinessParams;
+use \TianQi\PaySDK\Alipay\Wap\Params\Pay\BusinessParams;
 
 /**
  * 支付宝手机支付下单请求类

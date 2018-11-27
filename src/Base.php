@@ -1,18 +1,17 @@
 <?php
 namespace TianQi\PaySDK;
 
-use \TianQi\Util\HttpRequest;
+
 use TianQi\PaySDK\Lib\XML;
+use TianQi\PaySDK\Util\HttpRequest;
+
 
 /**
  * SDK类基类
  */
 abstract class Base
 {
-	/**
-	 * HttpRequest
-	 * @var \TianQi\Util\HttpRequest
-	 */
+
 	public $http;
 
 	/**

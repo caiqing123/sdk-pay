@@ -1,5 +1,5 @@
 <?php
-namespace TianQi\PaySDK\AlipayApp\Wap\Params\Pay;
+namespace TianQi\PaySDK\Alipay\Wap\Params\Pay;
 
 use \TianQi\PaySDK\Traits\JSONParams;
 
